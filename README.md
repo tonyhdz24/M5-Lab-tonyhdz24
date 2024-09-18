@@ -32,3 +32,26 @@ A simple bulleted list below is sufficient. For example:
 2. Changed font tags used for headers to there respective semantic header tags
 3. `<div class="nav"></div>` changed to the proper `nav` tag. 
 
+### Images
+- Added descriptive alt attribute to each `img` tag
+
+### Audio Player
+1. Added a transcription of the audio file 
+2. Added download link as fallback 
+
+### Forms
+1. Added visually hidden label to search form
+2. `label` tags linked to input using `id` and `for` attributes
+
+### Show/Hide Comment Control
+- Show comment button can now be tabbed to with keyboard. The functionality to hide/show the comments now possible using the enter button.
+
+### Table
+- Added `scope` attribute to `th` and `td` tags to establish relationship between column headers and rows. 
+- Added a `caption` tag to the table
+- Added a descriptive `p` after table
+
+### Other Considerations
+1. Increase font size/change font.
+2. Put text into `p` tags and remove `br` tags
+3. Adding lang attribute to `HTML` tag
