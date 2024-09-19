@@ -1,27 +1,30 @@
-# Web Dev Starter Code
+# M5 Lab - Accessibility
 
 ## Overview
-
-TODO: Write a project description
+The purpose of module 5's lab was to help us learn more about web development accessibility standards and how to make a webpage more accessible. This was accomplished by taking a starter webpage and going through and making it more accessible.
 
 ## Sources and Credits
+- Shane Panter: https://github.com/shanep/web-dev-starter
+- WAI-ARIA basics: https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics
+- Accessible multimedia: https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Multimedia
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+## How to run code
+* To run the code open up your terminal and cd to the folder were you want to copy the repository to 
 
-A simple bulleted list below is sufficient. For example:
+    ``` cd path/to/your/directory ```
+* Once in the desired folder use the command git clone to copy the repo there 
 
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+    ```git clone https://github.com/tonyhdz24/M5-Lab-tonyhdz24```
+* Then cd into the newly cloned repo
+
+    ``` cd M5-Lab-tonyhdz24M5-Lab-tonyhdz24```
+
+* Once in the repo folder install any dependencies the repo requires  
+    ```npm install```
+
+* Lastly open the cloned repo in your IDE open index.html and use Live Preview to view the webpage
+
+    ``` code .```
 
 ## Accessibility Lab Answers
 ### Color
